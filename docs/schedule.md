@@ -185,7 +185,7 @@ Explore:
 * [Land-Grab Universities](https://www.landgrabu.org/)  
 * [Freedom on the Move](https://freedomonthemove.org/)  
 * [The Runaway Project](https://runawayproject.info/)  
-* [Homegoing](https://www.covidblack.org/homegoing)   
+* [Unsilencing Slavery](https://unsilencing-slavery.org/)   
 * Others tbd
 
 Optional:
@@ -230,7 +230,7 @@ In class:
 * Lab exercise: laying out the challenge.   
 * **Form groups for final project\!**   
   *Your group’s task for next week will be to find a person of interest in the Mount Vernon database and plan to report back on your subject to the class next week.*    
-* Guest speaker: Alex Gil, *Who Owns Black Data?* (pending) 
+* Guest speaker: Alex Gil, *Who Owns Black Data?* 
 
 **Week 12: November 14 – Newspaper Data**   
 Read before class:
